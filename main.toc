@@ -1,0 +1,196 @@
+\contentsline {chapter}{Preface to New Typesetting}{5}{chapter*.1}%
+\contentsline {chapter}{Preface}{6}{chapter*.2}%
+\contentsline {chapter}{Preface to Second Edition}{8}{chapter*.3}%
+\contentsline {chapter}{Conventions}{9}{chapter*.4}%
+\contentsline {chapter}{Contents}{10}{chapter*.10}%
+\contentsline {part}{I\hspace {1em}}{14}{part.11}%
+\contentsline {chapter}{\numberline {1}Elementary Results}{15}{chapter.12}%
+\contentsline {section}{\numberline {1}General Rings}{15}{section.13}%
+\contentsline {paragraph}{(1.A)}{15}{paragraph*.15}%
+\contentsline {paragraph}{(1.B)}{16}{paragraph*.17}%
+\contentsline {paragraph}{(1.C)}{17}{paragraph*.20}%
+\contentsline {paragraph}{(1.D)}{17}{paragraph*.22}%
+\contentsline {paragraph}{(1.E)}{17}{paragraph*.24}%
+\contentsline {paragraph}{(1.F)}{18}{paragraph*.29}%
+\contentsline {paragraph}{(1.G)}{19}{paragraph*.31}%
+\contentsline {paragraph}{(1.H)}{20}{paragraph*.33}%
+\contentsline {paragraph}{(1.I)}{20}{paragraph*.37}%
+\contentsline {paragraph}{(1.J)}{21}{paragraph*.41}%
+\contentsline {paragraph}{(1.K)}{21}{paragraph*.43}%
+\contentsline {paragraph}{(1.N)}{23}{paragraph*.50}%
+\contentsline {paragraph}{(1.O)}{23}{paragraph*.52}%
+\contentsline {paragraph}{(1.P)}{24}{paragraph*.54}%
+\contentsline {section}{\numberline {2}Noetherian Rings and Artinian Rings}{24}{section.55}%
+\contentsline {paragraph}{(2.A)}{24}{paragraph*.57}%
+\contentsline {paragraph}{(2.B)}{25}{paragraph*.59}%
+\contentsline {paragraph}{(2.D)}{26}{paragraph*.62}%
+\contentsline {chapter}{\numberline {2}Flatness}{28}{chapter.66}%
+\contentsline {section}{\numberline {3}Flatness}{28}{section.67}%
+\contentsline {paragraph}{(3.B)}{30}{paragraph*.78}%
+\contentsline {paragraph}{(3.C)}{30}{paragraph*.80}%
+\contentsline {paragraph}{(3.D)}{30}{paragraph*.82}%
+\contentsline {paragraph}{(3.E)}{30}{paragraph*.84}%
+\contentsline {paragraph}{(3.F)}{31}{paragraph*.87}%
+\contentsline {paragraph}{(3.H)}{33}{paragraph*.91}%
+\contentsline {paragraph}{(3.J)}{34}{paragraph*.101}%
+\contentsline {section}{\numberline {4}Faithful Flatness}{36}{section.106}%
+\contentsline {paragraph}{(4.B)}{37}{paragraph*.114}%
+\contentsline {paragraph}{(4.C)}{37}{paragraph*.116}%
+\contentsline {paragraph}{(4.E)}{39}{paragraph*.130}%
+\contentsline {section}{\numberline {5}Going-up Theorem and Going-down Theorem}{41}{section.139}%
+\contentsline {paragraph}{(5.A)}{41}{paragraph*.141}%
+\contentsline {paragraph}{(5.B)}{41}{paragraph*.145}%
+\contentsline {section}{\numberline {6}Constructible Sets}{47}{section.168}%
+\contentsline {paragraph}{(6.A)}{47}{paragraph*.170}%
+\contentsline {paragraph}{(6.B)}{47}{paragraph*.172}%
+\contentsline {paragraph}{(6.G)}{53}{paragraph*.186}%
+\contentsline {paragraph}{(6.H)}{53}{paragraph*.189}%
+\contentsline {paragraph}{(6.J)}{55}{paragraph*.199}%
+\contentsline {chapter}{\numberline {3}Associated Primes}{56}{chapter.200}%
+\contentsline {section}{\numberline {7}$\Ass (M)$}{56}{section.201}%
+\contentsline {paragraph}{(7.A)}{56}{paragraph*.203}%
+\contentsline {section}{\numberline {8}Primary Decomposition}{58}{section.222}%
+\contentsline {paragraph}{(8.C)}{60}{paragraph*.231}%
+\contentsline {paragraph}{(8.D)}{60}{paragraph*.233}%
+\contentsline {paragraph}{(8.H)}{62}{paragraph*.248}%
+\contentsline {section}{\numberline {9}Homomorphisms and Ass}{63}{section.249}%
+\contentsline {paragraph}{(9.D)}{66}{paragraph*.265}%
+\contentsline {chapter}{\numberline {4}Graded Rings}{67}{chapter.270}%
+\contentsline {section}{\numberline {10}Graded Rings and Modules}{67}{section.271}%
+\contentsline {paragraph}{(10.A)}{67}{paragraph*.273}%
+\contentsline {paragraph}{(10.C)}{69}{paragraph*.284}%
+\contentsline {paragraph}{(10.E)}{70}{paragraph*.289}%
+\contentsline {section}{\numberline {11}Artin-Rees Theorem}{72}{section.296}%
+\contentsline {paragraph}{(11.A)}{72}{paragraph*.298}%
+\contentsline {chapter}{\numberline {5}Dimension}{76}{chapter.312}%
+\contentsline {section}{\numberline {12}Dimension}{76}{section.313}%
+\contentsline {paragraph}{(12.A)}{76}{paragraph*.315}%
+\contentsline {paragraph}{(12.B)}{77}{paragraph*.317}%
+\contentsline {paragraph}{(12.C)}{77}{paragraph*.322}%
+\contentsline {paragraph}{(12.J)}{82}{paragraph*.337}%
+\contentsline {section}{\numberline {13}Homomorphisms and Dimension}{83}{section.340}%
+\contentsline {paragraph}{(13.A)}{83}{paragraph*.342}%
+\contentsline {section}{\numberline {14}Finitely Generated Extensions}{87}{section.362}%
+\contentsline {paragraph}{(14.B)}{88}{paragraph*.367}%
+\contentsline {chapter}{\numberline {6}Depth}{98}{chapter.399}%
+\contentsline {section}{\numberline {15}$M$-regular Sequences}{98}{section.400}%
+\contentsline {paragraph}{(15.A)}{98}{paragraph*.402}%
+\contentsline {paragraph}{(15.B)}{99}{paragraph*.408}%
+\contentsline {paragraph}{(15.C)}{103}{paragraph*.424}%
+\contentsline {paragraph}{(15.D)}{105}{paragraph*.432}%
+\contentsline {section}{\numberline {16}Cohen-Macaulay Rings}{108}{section.441}%
+\contentsline {paragraph}{(16.A)}{108}{paragraph*.443}%
+\contentsline {paragraph}{(16.C)}{112}{paragraph*.461}%
+\contentsline {chapter}{\numberline {7}Normal Rings and Regular Rings}{117}{chapter.483}%
+\contentsline {section}{\numberline {17}Classical Theory}{117}{section.484}%
+\contentsline {paragraph}{(17.A)}{117}{paragraph*.486}%
+\contentsline {paragraph}{(17.C)}{119}{paragraph*.495}%
+\contentsline {paragraph}{(17.E)}{121}{paragraph*.504}%
+\contentsline {paragraph}{(17.G)}{123}{paragraph*.517}%
+\contentsline {paragraph}{(17.H)}{123}{paragraph*.519}%
+\contentsline {paragraph}{(17.I)}{125}{paragraph*.525}%
+\contentsline {section}{\numberline {18}Homological Theory}{127}{section.529}%
+\contentsline {paragraph}{(18.A)}{127}{paragraph*.531}%
+\contentsline {paragraph}{(18.D)}{132}{paragraph*.560}%
+\contentsline {paragraph}{(18.E)}{136}{paragraph*.569}%
+\contentsline {section}{\numberline {19}Unique Factorization}{141}{section.583}%
+\contentsline {paragraph}{(19.A)}{141}{paragraph*.585}%
+\contentsline {chapter}{\numberline {8}Flatness II}{145}{chapter.600}%
+\contentsline {section}{\numberline {20}Local Criteria of Flatness}{145}{section.601}%
+\contentsline {paragraph}{(20.A)}{145}{paragraph*.603}%
+\contentsline {paragraph}{(20.B)}{146}{paragraph*.608}%
+\contentsline {section}{\numberline {21}Fibres of Flat Morphisms}{152}{section.628}%
+\contentsline {paragraph}{(21.A)}{152}{paragraph*.630}%
+\contentsline {section}{\numberline {22}Theorems of Generic Flatness}{156}{section.655}%
+\contentsline {paragraph}{(22.C)}{158}{paragraph*.667}%
+\contentsline {chapter}{\numberline {9}Completion}{160}{chapter.669}%
+\contentsline {section}{\numberline {23}Completion}{160}{section.670}%
+\contentsline {paragraph}{(23.A)}{160}{paragraph*.672}%
+\contentsline {paragraph}{(23.B)}{160}{paragraph*.674}%
+\contentsline {paragraph}{(23.C)}{161}{paragraph*.676}%
+\contentsline {paragraph}{(23.E)}{162}{paragraph*.682}%
+\contentsline {paragraph}{(23.F)}{162}{paragraph*.684}%
+\contentsline {paragraph}{(23.H)}{163}{paragraph*.688}%
+\contentsline {paragraph}{(23.I)}{164}{paragraph*.693}%
+\contentsline {paragraph}{(23.J)}{165}{paragraph*.703}%
+\contentsline {paragraph}{(23.K)}{166}{paragraph*.705}%
+\contentsline {paragraph}{(23.L)}{166}{paragraph*.707}%
+\contentsline {section}{\numberline {24}Zariski Rings}{168}{section.714}%
+\contentsline {paragraph}{(24.B)}{169}{paragraph*.724}%
+\contentsline {paragraph}{(24.C)}{170}{paragraph*.726}%
+\contentsline {paragraph}{(24.D)}{171}{paragraph*.728}%
+\contentsline {part}{II\hspace {1em}}{173}{part.738}%
+\contentsline {chapter}{\numberline {10}Derivations}{174}{chapter.739}%
+\contentsline {section}{\numberline {25}Extension of Ring by a Module}{174}{section.740}%
+\contentsline {paragraph}{(25.A)}{174}{paragraph*.742}%
+\contentsline {paragraph}{(25.B)}{175}{paragraph*.746}%
+\contentsline {paragraph}{(25.C)}{175}{paragraph*.748}%
+\contentsline {paragraph}{(25.D)}{176}{paragraph*.750}%
+\contentsline {paragraph}{(25.E)}{176}{paragraph*.752}%
+\contentsline {section}{\numberline {26}Derivations and Differentials}{177}{section.753}%
+\contentsline {paragraph}{(26.A)}{177}{paragraph*.755}%
+\contentsline {paragraph}{(26.B)}{178}{paragraph*.757}%
+\contentsline {paragraph}{(26.C)}{178}{paragraph*.759}%
+\contentsline {paragraph}{(26.D)}{180}{paragraph*.762}%
+\contentsline {paragraph}{(26.I)}{184}{paragraph*.781}%
+\contentsline {section}{\numberline {27}Separability}{186}{section.793}%
+\contentsline {paragraph}{(27.A)}{186}{paragraph*.795}%
+\contentsline {chapter}{\numberline {11}Formal Smoothness}{193}{chapter.823}%
+\contentsline {section}{\numberline {28}Formal Smoothness I}{193}{section.824}%
+\contentsline {paragraph}{(28.A)}{193}{paragraph*.826}%
+\contentsline {paragraph}{(28.E)}{196}{paragraph*.838}%
+\contentsline {paragraph}{(28.F)}{196}{paragraph*.840}%
+\contentsline {paragraph}{(28.G)}{196}{paragraph*.842}%
+\contentsline {paragraph}{(28.H)}{197}{paragraph*.844}%
+\contentsline {paragraph}{(28.N)}{203}{paragraph*.862}%
+\contentsline {paragraph}{(28.P)}{205}{paragraph*.868}%
+\contentsline {section}{\numberline {29}Jacobian Criteria}{207}{section.882}%
+\contentsline {paragraph}{(29.A)}{207}{paragraph*.884}%
+\contentsline {paragraph}{(29.B)}{208}{paragraph*.888}%
+\contentsline {paragraph}{(29.F)}{215}{paragraph*.901}%
+\contentsline {section}{\numberline {30}Formal Smoothness II}{215}{section.903}%
+\contentsline {paragraph}{(30.E)}{220}{paragraph*.921}%
+\contentsline {chapter}{\numberline {12}Nagata Rings}{223}{chapter.925}%
+\contentsline {section}{\numberline {31}Nagata Rings}{223}{section.926}%
+\contentsline {paragraph}{(31.D)}{225}{paragraph*.938}%
+\contentsline {paragraph}{(31.E)}{227}{paragraph*.947}%
+\contentsline {paragraph}{(31.G)}{228}{paragraph*.951}%
+\contentsline {paragraph}{(31.*)}{230}{paragraph*.956}%
+\contentsline {paragraph}{($\dagger $)}{231}{paragraph*.957}%
+\contentsline {chapter}{\numberline {13}Excellent Rings}{233}{chapter.960}%
+\contentsline {section}{\numberline {32}Closeness of Singular Locus}{233}{section.961}%
+\contentsline {paragraph}{(32.A)}{233}{paragraph*.963}%
+\contentsline {paragraph}{(32.B)}{234}{paragraph*.968}%
+\contentsline {section}{\numberline {33}Formal Fibres and $G$-Rings}{236}{section.982}%
+\contentsline {paragraph}{(33.A)}{236}{paragraph*.984}%
+\contentsline {section}{\numberline {34}Excellent Rings}{245}{section.1022}%
+\contentsline {paragraph}{(34.B)}{245}{paragraph*.1029}%
+\contentsline {paragraph}{(34.C)}{246}{paragraph*.1031}%
+\contentsline {chapter}{Appendix}{247}{chapter*.1035}%
+\contentsline {section}{\numberline {35}Eakin's Theorem}{247}{section.1036}%
+\contentsline {section}{\numberline {36}A Flatness Theorem}{249}{section.1043}%
+\contentsline {paragraph}{(36.B)}{250}{paragraph*.1047}%
+\contentsline {section}{\numberline {37}Coefficient Rings}{251}{section.1049}%
+\contentsline {section}{\numberline {38}$p$-Basis}{254}{section.1056}%
+\contentsline {paragraph}{(38.A)}{254}{paragraph*.1058}%
+\contentsline {paragraph}{(38.B)}{255}{paragraph*.1060}%
+\contentsline {paragraph}{(38.C)}{256}{paragraph*.1063}%
+\contentsline {paragraph}{(38.E)}{258}{paragraph*.1069}%
+\contentsline {paragraph}{(38.F)}{259}{paragraph*.1072}%
+\contentsline {paragraph}{(38.G)}{259}{paragraph*.1077}%
+\contentsline {section}{\numberline {39}Cartier's Equality and Geometric Regularity}{261}{section.1080}%
+\contentsline {paragraph}{(39.A)}{261}{paragraph*.1082}%
+\contentsline {section}{\numberline {40}Jacobian Criteria and Excellent Rings}{265}{section.1091}%
+\contentsline {paragraph}{(40.A)}{265}{paragraph*.1093}%
+\contentsline {paragraph}{(40.B)}{267}{paragraph*.1101}%
+\contentsline {paragraph}{(40.C)}{268}{paragraph*.1109}%
+\contentsline {paragraph}{(40.D)}{271}{paragraph*.1113}%
+\contentsline {paragraph}{(40.F)}{273}{paragraph*.1124}%
+\contentsline {section}{\numberline {41}Krull Rings and Marot's Theorem}{276}{section.1132}%
+\contentsline {paragraph}{(41.A)}{276}{paragraph*.1134}%
+\contentsline {section}{\numberline {42}Kunz' Theorems}{280}{section.1148}%
+\contentsline {paragraph}{(42.A)}{280}{paragraph*.1150}%
+\contentsline {paragraph}{(42.B)}{282}{paragraph*.1155}%
+\contentsline {section}{\numberline {43}Complement}{287}{section.1165}%
+\contentsline {chapter}{bibliography}{290}{chapter*.1170}%
+\contentsline {chapter}{Index}{296}{chapter*.1170}%

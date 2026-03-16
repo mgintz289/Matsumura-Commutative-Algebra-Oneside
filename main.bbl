@@ -1,0 +1,2288 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global/global}
+    \entry{abhyankar1956on}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=39183ffd95bfc4cff44bbb9bf3177a8e}{%
+           family={Abhyankar},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{fullhash}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{fullhashraw}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{bibnamehash}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{authorbibnamehash}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{authornamehash}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{authorfullhash}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \strng{authorfullhashraw}{39183ffd95bfc4cff44bbb9bf3177a8e}
+      \field{labelalpha}{Abh56}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00029327, 10806377}
+      \field{journaltitle}{American Journal of Mathematics}
+      \field{number}{2}
+      \field{title}{On the Valuations Centered in a Local Domain}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{volume}{78}
+      \field{year}{1956}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{321\bibrangedash 348}
+      \range{pages}{28}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2372519
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2372519
+      \endverb
+    \endentry
+    \entry{akizuji1935proceedings}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9350ce81b203aa203d7a4d1f15f688a9}{%
+           family={Akizuku},
+           familyi={A\bibinitperiod},
+           given={Yasno},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{fullhash}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{fullhashraw}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{bibnamehash}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{authorbibnamehash}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{authornamehash}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{authorfullhash}{9350ce81b203aa203d7a4d1f15f688a9}
+      \strng{authorfullhashraw}{9350ce81b203aa203d7a4d1f15f688a9}
+      \field{labelalpha}{Aki35}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Physico-Mathematical Society of Japan. 3rd Series}
+      \field{title}{Einige Bemerkungen über primäre Integritätsbereiche mit teilerkettensatz}
+      \field{volume}{17}
+      \field{year}{1935}
+      \field{dateera}{ce}
+      \field{pages}{327\bibrangedash 336}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.11429/ppmsj1919.17.0_327
+      \endverb
+    \endentry
+    \entry{andre1967methode}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=671b2a395d40cfbcb7e09cf1ea1536dd}{%
+           family={André},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{fullhash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{fullhashraw}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{bibnamehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authorbibnamehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authornamehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authorfullhash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authorfullhashraw}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \field{extraname}{1}
+      \field{labelalpha}{And67}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783540039037}
+      \field{series}{Lecture Notes in Mathematics}
+      \field{title}{Methode Simpliciale en Algebre Homologigue et Algebre Commutative}
+      \field{year}{1967}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=uATvAAAAMAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=uATvAAAAMAAJ
+      \endverb
+    \endentry
+    \entry{andré1974homologie}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=671b2a395d40cfbcb7e09cf1ea1536dd}{%
+           family={Andr{é}},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{fullhash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{fullhashraw}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{bibnamehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authorbibnamehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authornamehash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authorfullhash}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \strng{authorfullhashraw}{671b2a395d40cfbcb7e09cf1ea1536dd}
+      \field{extraname}{2}
+      \field{labelalpha}{And74}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780387065212}
+      \field{series}{Die Grundlehren der mathematischen Wissenschaften in Einzeldarstellungen}
+      \field{title}{Homologie des alg{è}bres commutatives}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=Zf-EAAAAIAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=Zf-EAAAAIAAJ
+      \endverb
+    \endentry
+    \entry{andre1974localisation}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b7658d4b84c86feaf46a5ac8c5ed12bd}{%
+           family={André},
+           familyi={A\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{fullhash}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{fullhashraw}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{bibnamehash}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{authorbibnamehash}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{authornamehash}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{authorfullhash}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \strng{authorfullhashraw}{b7658d4b84c86feaf46a5ac8c5ed12bd}
+      \field{extraname}{3}
+      \field{labelalpha}{And74}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Manuscripta mathematica}
+      \field{title}{Localisation de la lissite formelle.}
+      \field{volume}{13}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{pages}{297\bibrangedash 308}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb http://eudml.org/doc/154269
+      \endverb
+      \verb{url}
+      \verb http://eudml.org/doc/154269
+      \endverb
+    \endentry
+    \entry{avramov1975flat}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=871892936be1eadc88e47ab7ca2300ba}{%
+           family={Avramov},
+           familyi={A\bibinitperiod},
+           given={L.\bibnamedelimi L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{fullhash}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{fullhashraw}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{bibnamehash}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{authorbibnamehash}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{authornamehash}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{authorfullhash}{871892936be1eadc88e47ab7ca2300ba}
+      \strng{authorfullhashraw}{871892936be1eadc88e47ab7ca2300ba}
+      \field{labelalpha}{Avr75}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Dokl. Akad. Nauk SSS}
+      \field{title}{Flat morphisms of complete intersections}
+      \field{volume}{225}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{pages}{11\bibrangedash 14}
+      \range{pages}{4}
+    \endentry
+    \entry{bass1963big}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ec5781a5c6cf611eb3227144beebe19d}{%
+           family={Bass},
+           familyi={B\bibinitperiod},
+           given={Hyman},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{fullhash}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{fullhashraw}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{bibnamehash}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{authorbibnamehash}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{authornamehash}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{authorfullhash}{ec5781a5c6cf611eb3227144beebe19d}
+      \strng{authorfullhashraw}{ec5781a5c6cf611eb3227144beebe19d}
+      \field{labelalpha}{Bas63}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Illinois Journal of Mathematics}
+      \field{number}{1}
+      \field{title}{{Big projective modules are free}}
+      \field{volume}{7}
+      \field{year}{1963}
+      \field{dateera}{ce}
+      \field{pages}{24\bibrangedash 31}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1215/ijm/1255637479
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-7/issue-1/Big-projective-modules-are-free/10.1215/ijm/1255637479.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-7/issue-1/Big-projective-modules-are-free/10.1215/ijm/1255637479.full
+      \endverb
+    \endentry
+    \entry{buchsbaum1973what}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d402f85425061171db77780b232688e9}{%
+           family={Buchsbaum},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1249d4c8877c098355d267da038c837b}{%
+           family={Eisenbud},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8d07e128686e395046710fe0444f7ae}
+      \strng{fullhash}{b8d07e128686e395046710fe0444f7ae}
+      \strng{fullhashraw}{b8d07e128686e395046710fe0444f7ae}
+      \strng{bibnamehash}{b8d07e128686e395046710fe0444f7ae}
+      \strng{authorbibnamehash}{b8d07e128686e395046710fe0444f7ae}
+      \strng{authornamehash}{b8d07e128686e395046710fe0444f7ae}
+      \strng{authorfullhash}{b8d07e128686e395046710fe0444f7ae}
+      \strng{authorfullhashraw}{b8d07e128686e395046710fe0444f7ae}
+      \field{labelalpha}{BE73}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0021-8693}
+      \field{journaltitle}{Journal of Algebra}
+      \field{number}{2}
+      \field{title}{What makes a complex exact?}
+      \field{volume}{25}
+      \field{year}{1973}
+      \field{dateera}{ce}
+      \field{pages}{259\bibrangedash 268}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0021-8693(73)90044-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0021869373900446
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0021869373900446
+      \endverb
+    \endentry
+    \entry{bergerkunz1961}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=40c4fdf4aa83fda3d702e2780f0d32c1}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=25fc8afe9a5faa1d12b30abc35c08f28}{%
+           family={Kunz},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{fullhash}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{fullhashraw}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{bibnamehash}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{authorbibnamehash}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{authornamehash}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{authorfullhash}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \strng{authorfullhashraw}{9a0b4cfad77b6cb1f178c2c431b4df60}
+      \field{labelalpha}{BK61}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1432-1823}
+      \field{journaltitle}{Mathematische Zeitschrift}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Ü}ber die Struktur der Differentialmoduln von diskreten Bewertungsringen}
+      \field{volume}{77}
+      \field{year}{1961}
+      \field{dateera}{ce}
+      \field{pages}{314\bibrangedash 338}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/BF01180183
+      \endverb
+    \endentry
+    \entry{bourbaki1998commutative}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f0018b78a6c10da9f756d893cef3499e}{%
+           family={Bourbaki},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{fullhash}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{fullhashraw}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{bibnamehash}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{authorbibnamehash}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{authornamehash}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{authorfullhash}{f0018b78a6c10da9f756d893cef3499e}
+      \strng{authorfullhashraw}{f0018b78a6c10da9f756d893cef3499e}
+      \field{labelalpha}{Bou98}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783540642398}
+      \field{number}{v. 1}
+      \field{series}{Elements de mathematique. English}
+      \field{title}{Commutative Algebra: Chapters 1-7}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://archive.org/details/commutativealgeb0000bour
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/commutativealgeb0000bour
+      \endverb
+    \endentry
+    \entry{dieudonne1966on}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e28a92db4897ac84ce300a3505f605b7}{%
+           family={Dieudonné},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nagoya Mathematical Journal}%
+      }
+      \strng{namehash}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{fullhash}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{fullhashraw}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{bibnamehash}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{authorbibnamehash}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{authornamehash}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{authorfullhash}{e28a92db4897ac84ce300a3505f605b7}
+      \strng{authorfullhashraw}{e28a92db4897ac84ce300a3505f605b7}
+      \field{labelalpha}{Die66}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nagoya Mathematical Journal}
+      \field{number}{P1}
+      \field{title}{{On regular sequences}}
+      \field{volume}{27}
+      \field{year}{1966}
+      \field{dateera}{ce}
+      \field{pages}{355\bibrangedash 356}
+      \range{pages}{2}
+      \verb{doi}
+      \verb nmj/1118801637
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/
+      \endverb
+      \verb{url}
+      \verb https://doi.org/
+      \endverb
+    \endentry
+    \entry{eakin1968the}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8687eb4a2f124af14a8a8a8c6a581ee8}{%
+           family={Eakin},
+           familyi={E\bibinitperiod},
+           given={P.M.\bibnamedelimi jr.},
+           giveni={P\bibinitperiod\bibinitdelim j\bibinitperiod}}}%
+      }
+      \strng{namehash}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{fullhash}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{fullhashraw}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{bibnamehash}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{authorbibnamehash}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{authornamehash}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{authorfullhash}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \strng{authorfullhashraw}{8687eb4a2f124af14a8a8a8c6a581ee8}
+      \field{labelalpha}{Eak68}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Annalen}
+      \field{title}{The Converse to a Well Known Theorem on Noetherian Rings.}
+      \field{volume}{177}
+      \field{year}{1968}
+      \field{dateera}{ce}
+      \field{pages}{278\bibrangedash 282}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb http://eudml.org/doc/161724
+      \endverb
+      \verb{url}
+      \verb http://eudml.org/doc/161724
+      \endverb
+      \keyw{commutative algebra}
+    \endentry
+    \entry{eisenbud1975some}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=33da1627c8994ee2d56a2e5841ed6581}{%
+           family={Eisenbud},
+           familyi={E\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{fullhash}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{fullhashraw}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{bibnamehash}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{authorbibnamehash}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{authornamehash}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{authorfullhash}{33da1627c8994ee2d56a2e5841ed6581}
+      \strng{authorfullhashraw}{33da1627c8994ee2d56a2e5841ed6581}
+      \field{labelalpha}{Eis75}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{Algebraic geometry - Arcata}
+      \field{journaltitle}{Proc. Sympos. Pure Math.}
+      \field{title}{Some directions of recent progress in commutative algebra}
+      \field{volume}{29}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{pages}{111\bibrangedash 128}
+      \range{pages}{18}
+      \verb{urlraw}
+      \verb https://www.ams.org/books/pspum/029/
+      \endverb
+      \verb{url}
+      \verb https://www.ams.org/books/pspum/029/
+      \endverb
+    \endentry
+    \entry{faltings1978Ein}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9951ee6d63b7a96e1adea62988e6017b}{%
+           family={Faltings},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {german}%
+      }
+      \strng{namehash}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{fullhash}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{fullhashraw}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{bibnamehash}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{authorbibnamehash}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{authornamehash}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{authorfullhash}{9951ee6d63b7a96e1adea62988e6017b}
+      \strng{authorfullhashraw}{9951ee6d63b7a96e1adea62988e6017b}
+      \field{labelalpha}{Fal78}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archiv der Mathematik}
+      \field{title}{Ein einfacher Beweis, da geometrische Regularität formale Glattheit impliziert}
+      \field{volume}{30}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \field{pages}{284\bibrangedash 285}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/BF01226056
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/BF01226056
+      \endverb
+    \endentry
+    \entry{formanek1973faithful}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=40485a23544f4dbd9a2a2d481148693a}{%
+           family={Formanek},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{fullhash}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{fullhashraw}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{bibnamehash}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{authorbibnamehash}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{authornamehash}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{authorfullhash}{40485a23544f4dbd9a2a2d481148693a}
+      \strng{authorfullhashraw}{40485a23544f4dbd9a2a2d481148693a}
+      \field{labelalpha}{For73}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Proc. Amer. Math. Soc.}
+      \field{volume}{41}
+      \field{year}{1973}
+      \field{dateera}{ce}
+      \field{pages}{381\bibrangedash 383}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1090/S0002-9939-1973-0379477-X
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ams.org/journals/proc/1973-041-02/S0002-9939-1973-0379477-X
+      \endverb
+      \verb{url}
+      \verb https://www.ams.org/journals/proc/1973-041-02/S0002-9939-1973-0379477-X
+      \endverb
+    \endentry
+    \entry{fossum2012divisor}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5cb006c8f5ea50dc703809ccd3360de0}{%
+           family={Fossum},
+           familyi={F\bibinitperiod},
+           given={R.M.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{fullhash}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{fullhashraw}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{bibnamehash}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{authorbibnamehash}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{authornamehash}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{authorfullhash}{5cb006c8f5ea50dc703809ccd3360de0}
+      \strng{authorfullhashraw}{5cb006c8f5ea50dc703809ccd3360de0}
+      \field{labelalpha}{Fos12}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783642884054}
+      \field{series}{Ergebnisse der Mathematik und ihrer Grenzgebiete. 2. Folge}
+      \field{title}{The Divisor Class Group of a Krull Domain}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://archive.org/details/divisorclassgrou0000foss
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/divisorclassgrou0000foss
+      \endverb
+    \endentry
+    \entry{greco1976two}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=de8d88abc062598432edd6c9ee8ddd40}{%
+           family={Greco},
+           familyi={G\bibinitperiod},
+           given={Silvio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nagoya Mathematical Journal}%
+      }
+      \strng{namehash}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{fullhash}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{fullhashraw}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{bibnamehash}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{authorbibnamehash}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{authornamehash}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{authorfullhash}{de8d88abc062598432edd6c9ee8ddd40}
+      \strng{authorfullhashraw}{de8d88abc062598432edd6c9ee8ddd40}
+      \field{labelalpha}{Gre76}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nagoya Mathematical Journal}
+      \field{number}{none}
+      \field{title}{{Two theorems on excellent rings}}
+      \field{volume}{60}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{139\bibrangedash 149}
+      \range{pages}{11}
+      \verb{doi}
+      \verb nmj/1118795639
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/nagoya-mathematical-journal/volume-60/issue-none/Two-theorems-on-excellent-rings/nmj/1118795639.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/nagoya-mathematical-journal/volume-60/issue-none/Two-theorems-on-excellent-rings/nmj/1118795639.full
+      \endverb
+    \endentry
+    \entry{egaIII}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6e1e873f9a9e10eed2c0bea7d3c8c7a8}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \list{publisher}{1}{%
+        {Institut des Hautes Études Scientifiques}%
+      }
+      \strng{namehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{fullhash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{fullhashraw}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{bibnamehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authorbibnamehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authornamehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authorfullhash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authorfullhashraw}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \field{extraname}{1}
+      \field{labelalpha}{Gro63}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications Mathématiques de l'IHÉS}
+      \field{title}{Éléments de géométrie algébrique : {III.} {Étude} cohomologique des faisceaux cohérents, {Seconde} partie}
+      \field{volume}{17}
+      \field{year}{1963}
+      \field{dateera}{ce}
+      \field{pages}{5\bibrangedash 91}
+      \range{pages}{87}
+      \verb{urlraw}
+      \verb http://www.numdam.org/item/PMIHES_1963__17__5_0/
+      \endverb
+      \verb{url}
+      \verb http://www.numdam.org/item/PMIHES_1963__17__5_0/
+      \endverb
+    \endentry
+    \entry{egaIV}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6e1e873f9a9e10eed2c0bea7d3c8c7a8}{%
+           family={Grothendieck},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \list{publisher}{1}{%
+        {Institut des Hautes Études Scientifiques}%
+      }
+      \strng{namehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{fullhash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{fullhashraw}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{bibnamehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authorbibnamehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authornamehash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authorfullhash}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \strng{authorfullhashraw}{6e1e873f9a9e10eed2c0bea7d3c8c7a8}
+      \field{extraname}{2}
+      \field{labelalpha}{Gro64}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications Mathématiques de l'IHÉS}
+      \field{title}{Éléments de géométrie algébrique : {IV.} {Étude} locale des schémas et des morphismes de schémas, {Première} partie}
+      \field{volume}{20}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{pages}{5\bibrangedash 259}
+      \range{pages}{255}
+      \verb{urlraw}
+      \verb http://www.numdam.org/item/PMIHES_1964__20__5_0/
+      \endverb
+      \verb{url}
+      \verb http://www.numdam.org/item/PMIHES_1964__20__5_0/
+      \endverb
+    \endentry
+    \entry{hartshorne1962complete}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ee65baaab88f9233fbad3d51c399ee25}{%
+           family={Hartshorne},
+           familyi={H\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{fullhash}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{fullhashraw}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{bibnamehash}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{authorbibnamehash}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{authornamehash}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{authorfullhash}{ee65baaab88f9233fbad3d51c399ee25}
+      \strng{authorfullhashraw}{ee65baaab88f9233fbad3d51c399ee25}
+      \field{labelalpha}{Har62}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00029327, 10806377}
+      \field{journaltitle}{American Journal of Mathematics}
+      \field{number}{3}
+      \field{title}{Complete Intersections and Connectedness}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{volume}{84}
+      \field{year}{1962}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{497\bibrangedash 508}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2372986
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2372986
+      \endverb
+    \endentry
+    \entry{hinohara1963projective}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=fa2c91ded8a13b9506250975b59e26d3}{%
+           family={Hinohara},
+           familyi={H\bibinitperiod},
+           given={Yukitoshi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mathematical Society of Japan}%
+      }
+      \strng{namehash}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{fullhash}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{fullhashraw}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{bibnamehash}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{authorbibnamehash}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{authornamehash}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{authorfullhash}{fa2c91ded8a13b9506250975b59e26d3}
+      \strng{authorfullhashraw}{fa2c91ded8a13b9506250975b59e26d3}
+      \field{labelalpha}{Hin63}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mathematical Society of Japan}
+      \field{number}{1}
+      \field{title}{{Projective modules over weakly noetherian rings}}
+      \field{volume}{15}
+      \field{year}{1963}
+      \field{dateera}{ce}
+      \field{pages}{75\bibrangedash 88}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.2969/jmsj/01510075
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-15/issue-1/Projective-modules-over-weakly-noetherian-rings/10.2969/jmsj/01510075.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-15/issue-1/Projective-modules-over-weakly-noetherian-rings/10.2969/jmsj/01510075.full
+      \endverb
+    \endentry
+    \entry{hochster1975topics}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=d3288ee626a17a8758c266e58f124ef3}{%
+           family={Hochster},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5b684bdb0aed26729cc3c9ee98a7986e}{%
+           family={Mathematical\bibnamedelima Sciences},
+           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Conference\bibnamedelima Board},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={of\bibnamedelima the},
+           prefixi={o\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Conference Board of the Mathematical Sciences}%
+      }
+      \strng{namehash}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{fullhash}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{fullhashraw}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{bibnamehash}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{authorbibnamehash}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{authornamehash}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{authorfullhash}{ed7fff2af664f99233b6d9d44398ab08}
+      \strng{authorfullhashraw}{ed7fff2af664f99233b6d9d44398ab08}
+      \field{labelalpha}{HM75}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780821816745}
+      \field{series}{Conference Board of the Mathematical Sciences regional conference series in mathematics}
+      \field{title}{Topics in the Homological Theory of Modules Over Commutative Rings}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=HCpzCgAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=HCpzCgAAQBAJ
+      \endverb
+    \endentry
+    \entry{kaplansky1958projective}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f21a937cde34af7b3489bde1d52b0b2f}{%
+           family={Kaplansky},
+           familyi={K\bibinitperiod},
+           given={Irving},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annals of Mathematics}%
+      }
+      \strng{namehash}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{fullhash}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{fullhashraw}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{bibnamehash}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{authorbibnamehash}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{authornamehash}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{authorfullhash}{f21a937cde34af7b3489bde1d52b0b2f}
+      \strng{authorfullhashraw}{f21a937cde34af7b3489bde1d52b0b2f}
+      \field{extraname}{1}
+      \field{labelalpha}{Kap58}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003486X}
+      \field{journaltitle}{Annals of Mathematics}
+      \field{number}{2}
+      \field{title}{Projective Modules}
+      \field{volume}{68}
+      \field{year}{1958}
+      \field{dateera}{ce}
+      \field{pages}{372\bibrangedash 377}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1970252
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1970252
+      \endverb
+    \endentry
+    \entry{kaplansky1970commutative}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=146601cf78839ab158f3ce4acc532a89}{%
+           family={Kaplansky},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Allyn}%
+        {Bacon}%
+      }
+      \strng{namehash}{146601cf78839ab158f3ce4acc532a89}
+      \strng{fullhash}{146601cf78839ab158f3ce4acc532a89}
+      \strng{fullhashraw}{146601cf78839ab158f3ce4acc532a89}
+      \strng{bibnamehash}{146601cf78839ab158f3ce4acc532a89}
+      \strng{authorbibnamehash}{146601cf78839ab158f3ce4acc532a89}
+      \strng{authornamehash}{146601cf78839ab158f3ce4acc532a89}
+      \strng{authorfullhash}{146601cf78839ab158f3ce4acc532a89}
+      \strng{authorfullhashraw}{146601cf78839ab158f3ce4acc532a89}
+      \field{extraname}{2}
+      \field{labelalpha}{Kap70}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Jeffery-Williams lecture}
+      \field{title}{Commutative Rings}
+      \field{year}{1970}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=xmIPAQAAMAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=xmIPAQAAMAAJ
+      \endverb
+    \endentry
+    \entry{kimurani1980regular}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=265b7e188618c9de6f458d9e5993c767}{%
+           family={Kimura},
+           familyi={K\bibinitperiod},
+           given={Tetsuzo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e11fbd843dc242819d95e87797317c08}{%
+           family={Niitsuma},
+           familyi={N\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mathematical Society of Japan}%
+      }
+      \strng{namehash}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{fullhash}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{fullhashraw}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{bibnamehash}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{authorbibnamehash}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{authornamehash}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{authorfullhash}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \strng{authorfullhashraw}{901bfc550b3f2c70ad4c38a5119efb7b}
+      \field{extraname}{1}
+      \field{labelalpha}{KN80}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mathematical Society of Japan}
+      \field{number}{2}
+      \field{title}{{Regular local ring of characteristic $p$ and $p$-basis}}
+      \field{volume}{32}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{pages}{363\bibrangedash 371}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.2969/jmsj/03220363
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-32/issue-2/Regular-local-ring-of-characteristic-p-and-p-basis/10.2969/jmsj/03220363.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-32/issue-2/Regular-local-ring-of-characteristic-p-and-p-basis/10.2969/jmsj/03220363.full
+      \endverb
+    \endentry
+    \entry{kimuraniitsuma1982}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=cd7d7055eb592f387f98c50110086e3e}{%
+           family={Kimura},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=337f927f8195221afd6ae2b6eb6ac42b}{%
+           family={Niitsuma},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{88ed09bcebeb366210905364caf254d3}
+      \strng{fullhash}{88ed09bcebeb366210905364caf254d3}
+      \strng{fullhashraw}{88ed09bcebeb366210905364caf254d3}
+      \strng{bibnamehash}{88ed09bcebeb366210905364caf254d3}
+      \strng{authorbibnamehash}{88ed09bcebeb366210905364caf254d3}
+      \strng{authornamehash}{88ed09bcebeb366210905364caf254d3}
+      \strng{authorfullhash}{88ed09bcebeb366210905364caf254d3}
+      \strng{authorfullhashraw}{88ed09bcebeb366210905364caf254d3}
+      \field{extraname}{2}
+      \field{labelalpha}{KN82}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mathematical Society of Japan}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{On Kunz's conjecture}
+      \field{volume}{34}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{pages}{371\bibrangedash 378}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2969/jmsj/03420371
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-34/issue-2/On-Kunzs-conjecture/10.2969/jmsj/03420371.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-34/issue-2/On-Kunzs-conjecture/10.2969/jmsj/03420371.full
+      \endverb
+    \endentry
+    \entry{lang2012algebra}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=abb50aa6b4dac78307182a4b8c05743e}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{fullhash}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{fullhashraw}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{bibnamehash}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{authorbibnamehash}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{authornamehash}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{authorfullhash}{abb50aa6b4dac78307182a4b8c05743e}
+      \strng{authorfullhashraw}{abb50aa6b4dac78307182a4b8c05743e}
+      \field{labelalpha}{Lan12}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781461265511}
+      \field{series}{Graduate Texts in Mathematics}
+      \field{title}{Algebra}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://math24.files.wordpress.com/2013/02/algebra-serge-lang.pdf
+      \endverb
+      \verb{url}
+      \verb https://math24.files.wordpress.com/2013/02/algebra-serge-lang.pdf
+      \endverb
+    \endentry
+    \entry{lech1964inequalities}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=346fd1029ce6510f6242ffd9e163cbe6}{%
+           family={Lech},
+           familyi={L\bibinitperiod},
+           given={Christer},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Institut Mittag-Leffler}%
+      }
+      \strng{namehash}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{fullhash}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{fullhashraw}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{bibnamehash}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{authorbibnamehash}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{authornamehash}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{authorfullhash}{346fd1029ce6510f6242ffd9e163cbe6}
+      \strng{authorfullhashraw}{346fd1029ce6510f6242ffd9e163cbe6}
+      \field{labelalpha}{Lec64}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Mathematica}
+      \field{number}{none}
+      \field{title}{{Inequalities related to certain couples of local rings}}
+      \field{volume}{112}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{pages}{69\bibrangedash 89}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/BF02391765
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/acta-mathematica/volume-112/issue-none/Inequalities-related-to-certain-couples-of-local-rings/10.1007/BF02391765.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/acta-mathematica/volume-112/issue-none/Inequalities-related-to-certain-couples-of-local-rings/10.1007/BF02391765.full
+      \endverb
+    \endentry
+    \entry{matijevic1976maximal}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=54cd4c023902be733b9e6956014bb84e}{%
+           family={Matijevic},
+           familyi={M\bibinitperiod},
+           given={Jacob\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{54cd4c023902be733b9e6956014bb84e}
+      \strng{fullhash}{54cd4c023902be733b9e6956014bb84e}
+      \strng{fullhashraw}{54cd4c023902be733b9e6956014bb84e}
+      \strng{bibnamehash}{54cd4c023902be733b9e6956014bb84e}
+      \strng{authorbibnamehash}{54cd4c023902be733b9e6956014bb84e}
+      \strng{authornamehash}{54cd4c023902be733b9e6956014bb84e}
+      \strng{authorfullhash}{54cd4c023902be733b9e6956014bb84e}
+      \strng{authorfullhashraw}{54cd4c023902be733b9e6956014bb84e}
+      \field{labelalpha}{Mat76}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. Amer. Math. Soc.}
+      \field{title}{Maximal ideal transforms of Noetherian rings}
+      \field{volume}{54}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{49\bibrangedash 52}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1090/S0002-9939-1976-0387269-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ams.org/journals/proc/1976-054-01/S0002-9939-1976-0387269-3/
+      \endverb
+      \verb{url}
+      \verb https://www.ams.org/journals/proc/1976-054-01/S0002-9939-1976-0387269-3/
+      \endverb
+    \endentry
+    \entry{matsumuranagoya1977}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7526cbf7f69393cfc0f406625885e7cc}{%
+           family={Matsumura},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{fullhash}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{fullhashraw}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{bibnamehash}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{authorbibnamehash}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{authornamehash}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{authorfullhash}{7526cbf7f69393cfc0f406625885e7cc}
+      \strng{authorfullhashraw}{7526cbf7f69393cfc0f406625885e7cc}
+      \field{extraname}{1}
+      \field{labelalpha}{Mat77}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nagoya Mathematical Journal}
+      \field{title}{Quasi-coefficient rings of a local ring}
+      \field{volume}{68}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{123\bibrangedash 130}
+      \range{pages}{8}
+    \endentry
+    \entry{MATSUMURA1977279}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=776b8e0ad6906790350e9e610fe0bbbd}{%
+           family={Matsumura},
+           familyi={M\bibinitperiod},
+           given={Hideyuki},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=ec5781a5c6cf611eb3227144beebe19d}{%
+           family={Bass},
+           familyi={B\bibinitperiod},
+           given={Hyman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f7beeedcd326d1dbbcafdb5b25573cfd}{%
+           family={Cassidy},
+           familyi={C\bibinitperiod},
+           given={Phyllis\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4a8ac1df6115760f7b8ecfce8fb6d919}{%
+           family={Kovacic},
+           familyi={K\bibinitperiod},
+           given={Jerald},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{fullhash}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{fullhashraw}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{bibnamehash}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{authorbibnamehash}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{authornamehash}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{authorfullhash}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{authorfullhashraw}{776b8e0ad6906790350e9e610fe0bbbd}
+      \strng{editorbibnamehash}{70baa6b2ec179bfbb7b2a7d4fe352a4b}
+      \strng{editornamehash}{70baa6b2ec179bfbb7b2a7d4fe352a4b}
+      \strng{editorfullhash}{70baa6b2ec179bfbb7b2a7d4fe352a4b}
+      \strng{editorfullhashraw}{70baa6b2ec179bfbb7b2a7d4fe352a4b}
+      \field{extraname}{2}
+      \field{labelalpha}{Mat77}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Contributions to Algebra}
+      \field{isbn}{978-0-12-080550-1}
+      \field{title}{Noetherian rings with many derivations}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{279\bibrangedash 294}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-12-080550-1.50026-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780120805501500263
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780120805501500263
+      \endverb
+    \endentry
+    \entry{nagata1957a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1e4d7e9879ffaf162a3c67f6c77f51da}{%
+           family={Nagata},
+           familyi={N\bibinitperiod},
+           given={Masayoshi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{fullhash}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{fullhashraw}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{bibnamehash}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{authorbibnamehash}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{authornamehash}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{authorfullhash}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \strng{authorfullhashraw}{1e4d7e9879ffaf162a3c67f6c77f51da}
+      \field{extraname}{1}
+      \field{labelalpha}{Nag57}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Illinois Journal of Mathematics}
+      \field{number}{3}
+      \field{title}{{A Jacobian criterion of simple points}}
+      \field{volume}{1}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \field{pages}{427\bibrangedash 432}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1215/ijm/1255380393
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-1/issue-3/A-Jacobian-criterion-of-simple-points/10.1215/ijm/1255380393.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/illinois-journal-of-mathematics/volume-1/issue-3/A-Jacobian-criterion-of-simple-points/10.1215/ijm/1255380393.full
+      \endverb
+    \endentry
+    \entry{nagata1975local}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b7f0b090413b0a8ac52d2738b9664a20}{%
+           family={Nagata},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Krieger}%
+      }
+      \strng{namehash}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{fullhash}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{fullhashraw}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{bibnamehash}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{authorbibnamehash}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{authornamehash}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{authorfullhash}{b7f0b090413b0a8ac52d2738b9664a20}
+      \strng{authorfullhashraw}{b7f0b090413b0a8ac52d2738b9664a20}
+      \field{extraname}{2}
+      \field{labelalpha}{Nag75}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780882752280}
+      \field{series}{Interscience tracts in pure and applied mathematics}
+      \field{title}{Local Rings}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=QmQPAQAAMAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=QmQPAQAAMAAJ
+      \endverb
+    \endentry
+    \entry{nishimura1976note}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=05613383c10b0dabfb15ad30ba6cb5b8}{%
+           family={Nishimura},
+           familyi={N\bibinitperiod},
+           given={Junichi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{fullhash}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{fullhashraw}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{bibnamehash}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{authorbibnamehash}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{authornamehash}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{authorfullhash}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \strng{authorfullhashraw}{05613383c10b0dabfb15ad30ba6cb5b8}
+      \field{labelalpha}{Nis76}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematics of Kyoto University}
+      \field{number}{1}
+      \field{title}{{Note on integral closures of a noetherian integral domain}}
+      \field{volume}{16}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{117\bibrangedash 122}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1215/kjm/1250522963
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/kyoto-journal-of-mathematics/volume-16/issue-1/Note-on-integral-closures-of-a-noetherian-integral-domain/10.1215/kjm/1250522963.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/kyoto-journal-of-mathematics/volume-16/issue-1/Note-on-integral-closures-of-a-noetherian-integral-domain/10.1215/kjm/1250522963.full
+      \endverb
+    \endentry
+    \entry{northcott1976finite}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=74590c49ec4d235e6010a6fc910c3f31}{%
+           family={Northcott},
+           familyi={N\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{fullhash}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{fullhashraw}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{bibnamehash}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{authorbibnamehash}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{authornamehash}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{authorfullhash}{74590c49ec4d235e6010a6fc910c3f31}
+      \strng{authorfullhashraw}{74590c49ec4d235e6010a6fc910c3f31}
+      \field{labelalpha}{Nor14}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783662292457}
+      \field{series}{Graduate Texts in Mathematics}
+      \field{title}{Finite Free Resolutions}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=kX-VnQEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=kX-VnQEACAAJ
+      \endverb
+    \endentry
+    \entry{peskineszpiro1973dimension}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1e04e55c2fd501511547d83eeb3032f8}{%
+           family={Peskine},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=22c3daf65b5f7c1ea32294f1a99d73c7}{%
+           family={Szpiro},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{dac3d69a3359dca7b68296095dd96901}
+      \strng{fullhash}{dac3d69a3359dca7b68296095dd96901}
+      \strng{fullhashraw}{dac3d69a3359dca7b68296095dd96901}
+      \strng{bibnamehash}{dac3d69a3359dca7b68296095dd96901}
+      \strng{authorbibnamehash}{dac3d69a3359dca7b68296095dd96901}
+      \strng{authornamehash}{dac3d69a3359dca7b68296095dd96901}
+      \strng{authorfullhash}{dac3d69a3359dca7b68296095dd96901}
+      \strng{authorfullhashraw}{dac3d69a3359dca7b68296095dd96901}
+      \field{labelalpha}{PS75}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1618-1913}
+      \field{journaltitle}{Publications Mathématiques de l'Institut des Hautes Études Scientifiques}
+      \field{title}{Dimension projective finie et cohomologie locale}
+      \field{volume}{42}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF02685877
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF02685877
+      \endverb
+    \endentry
+    \entry{querre1977on}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=817f7c4b0230533f816097cea79aa79d}{%
+           family={Querré},
+           familyi={Q\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{817f7c4b0230533f816097cea79aa79d}
+      \strng{fullhash}{817f7c4b0230533f816097cea79aa79d}
+      \strng{fullhashraw}{817f7c4b0230533f816097cea79aa79d}
+      \strng{bibnamehash}{817f7c4b0230533f816097cea79aa79d}
+      \strng{authorbibnamehash}{817f7c4b0230533f816097cea79aa79d}
+      \strng{authornamehash}{817f7c4b0230533f816097cea79aa79d}
+      \strng{authorfullhash}{817f7c4b0230533f816097cea79aa79d}
+      \strng{authorfullhashraw}{817f7c4b0230533f816097cea79aa79d}
+      \field{labelalpha}{Que77}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Comptes Rendus de l'Académie des Sciences serie A}
+      \field{title}{On a Theorem of Mori-Nagata}
+      \field{volume}{285}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{323\bibrangedash 325}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://gallica.bnf.fr/ark:/12148/bpt6k5620896n/f3.item.r=Comptes+Rendus+de+l'Acad\%C3\%A9mie+des+Sciences+serie+Aquerre
+      \endverb
+      \verb{url}
+      \verb https://gallica.bnf.fr/ark:/12148/bpt6k5620896n/f3.item.r=Comptes+Rendus+de+l'Acad%5C%C3%5C%A9mie+des+Sciences+serie+Aquerre
+      \endverb
+    \endentry
+    \entry{ratliff1972catenary}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8171584fce229f853de0191ffc0f2e1a}{%
+           family={Ratliff},
+           familyi={R\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{fullhash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{fullhashraw}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{bibnamehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authorbibnamehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authornamehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authorfullhash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authorfullhashraw}{8171584fce229f853de0191ffc0f2e1a}
+      \field{extraname}{1}
+      \field{labelalpha}{Rat72}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00029327, 10806377}
+      \field{journaltitle}{American Journal of Mathematics}
+      \field{number}{2}
+      \field{title}{Catenary Rings and the Altitude Formula}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{volume}{94}
+      \field{year}{1972}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{458\bibrangedash 466}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2374632
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2374632
+      \endverb
+    \endentry
+    \entry{ratliff1978chain}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8171584fce229f853de0191ffc0f2e1a}{%
+           family={Ratliff},
+           familyi={R\bibinitperiod},
+           given={L.J.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{fullhash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{fullhashraw}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{bibnamehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authorbibnamehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authornamehash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authorfullhash}{8171584fce229f853de0191ffc0f2e1a}
+      \strng{authorfullhashraw}{8171584fce229f853de0191ffc0f2e1a}
+      \field{extraname}{2}
+      \field{labelalpha}{Rat78}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783540087588}
+      \field{series}{Lecture notes in mathematics}
+      \field{title}{Chain Conjectures in Ring Theory: An Exposition of Conjectures on Catenary Chains}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=NzjQAAAAMAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=NzjQAAAAMAAJ
+      \endverb
+    \endentry
+    \entry{rees1957the}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1228d545ffbed328fe200d87b760ca68}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1228d545ffbed328fe200d87b760ca68}
+      \strng{fullhash}{1228d545ffbed328fe200d87b760ca68}
+      \strng{fullhashraw}{1228d545ffbed328fe200d87b760ca68}
+      \strng{bibnamehash}{1228d545ffbed328fe200d87b760ca68}
+      \strng{authorbibnamehash}{1228d545ffbed328fe200d87b760ca68}
+      \strng{authornamehash}{1228d545ffbed328fe200d87b760ca68}
+      \strng{authorfullhash}{1228d545ffbed328fe200d87b760ca68}
+      \strng{authorfullhashraw}{1228d545ffbed328fe200d87b760ca68}
+      \field{labelalpha}{Ree57}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Proceedings of the Cambridge Philosophical Society}
+      \field{number}{1}
+      \field{title}{The grade of an ideal or module}
+      \field{volume}{53}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \field{pages}{28\bibrangedash 42}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1017/S0305004100031960
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/grade-of-an-ideal-or-module/2492E077C7772B5406D85290124686CC
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/grade-of-an-ideal-or-module/2492E077C7772B5406D85290124686CC
+      \endverb
+    \endentry
+    \entry{rotthaus1977nicht}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c762202617faefcdceb1a620bc6fee78}{%
+           family={Rotthaus},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c762202617faefcdceb1a620bc6fee78}
+      \strng{fullhash}{c762202617faefcdceb1a620bc6fee78}
+      \strng{fullhashraw}{c762202617faefcdceb1a620bc6fee78}
+      \strng{bibnamehash}{c762202617faefcdceb1a620bc6fee78}
+      \strng{authorbibnamehash}{c762202617faefcdceb1a620bc6fee78}
+      \strng{authornamehash}{c762202617faefcdceb1a620bc6fee78}
+      \strng{authorfullhash}{c762202617faefcdceb1a620bc6fee78}
+      \strng{authorfullhashraw}{c762202617faefcdceb1a620bc6fee78}
+      \field{extraname}{1}
+      \field{labelalpha}{Rot77}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Zeitschrift}
+      \field{title}{Nicht ausgezeichnete, universell japanische Ringe}
+      \field{volume}{152}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/BF01214184
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/BF01214184
+      \endverb
+    \endentry
+    \entry{rotthaus1979komplettierung}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b0a07a2c4d8614d6452e9dcc72aab4bf}{%
+           family={Rotthaus},
+           familyi={R\bibinitperiod},
+           given={Christel},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nagoya Mathematical Journal}%
+      }
+      \strng{namehash}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{fullhash}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{fullhashraw}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{bibnamehash}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{authorbibnamehash}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{authornamehash}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{authorfullhash}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \strng{authorfullhashraw}{b0a07a2c4d8614d6452e9dcc72aab4bf}
+      \field{extraname}{2}
+      \field{labelalpha}{Rot79}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nagoya Mathematical Journal}
+      \field{number}{none}
+      \field{title}{{Komplettierung semilokaler quasiausgezeichneter Ringe}}
+      \field{volume}{76}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{pages}{173\bibrangedash 180}
+      \range{pages}{8}
+      \verb{doi}
+      \verb nmj/1118785940
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/nagoya-mathematical-journal/volume-76/issue-none/Komplettierung-semilokaler-quasiausgezeichneter-Ringe/nmj/1118785940.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/nagoya-mathematical-journal/volume-76/issue-none/Komplettierung-semilokaler-quasiausgezeichneter-Ringe/nmj/1118785940.full
+      \endverb
+    \endentry
+    \entry{rudakovshafarevich1976}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a38e842220367318cc70e1b6383603f3}{%
+           family={Rudakov},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=33be33c131fc910ffd05587507594de2}{%
+           family={Shafarevich},
+           familyi={S\bibinitperiod},
+           given={I.\bibnamedelimi R.},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{fullhash}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{fullhashraw}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{bibnamehash}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{authorbibnamehash}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{authornamehash}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{authorfullhash}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \strng{authorfullhashraw}{9fb7e0c185cd1e7af4f3c95ab58739cc}
+      \field{labelalpha}{RS76}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics of the USSR-Izvestiya}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Inseparable morphisms of algebraic surfaces}
+      \field{volume}{10}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{1269\bibrangedash 1307}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1070/IM1976v010n06ABEH001833
+      \endverb
+    \endentry
+    \entry{serre1956geometrie-translated}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=523a41970d92b80420ca6d5307619da7}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=bd343d12fbe9886a054956a678d37b4c}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Gap}%
+      }
+      \list{publisher}{1}{%
+        {Imprimerie Louis-Jean}%
+      }
+      \strng{namehash}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{fullhash}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{fullhashraw}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{bibnamehash}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{authorbibnamehash}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{authornamehash}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{authorfullhash}{052a9d5e720c4f9a3ddba80236e6a913}
+      \strng{authorfullhashraw}{052a9d5e720c4f9a3ddba80236e6a913}
+      \field{labelalpha}{SA56}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales de l'Institut Fourier}
+      \field{title}{Algebraic Geomtry and Analytic Geometry}
+      \field{volume}{6}
+      \field{year}{1956}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 42}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.5802/aif.59
+      \endverb
+      \verb{urlraw}
+      \verb https://web.archive.org/web/20180114151828/http://ms.mcmaster.ca/~arnoldt/
+      \endverb
+      \verb{url}
+      \verb https://web.archive.org/web/20180114151828/http://ms.mcmaster.ca/~arnoldt/
+      \endverb
+    \endentry
+    \entry{samuel1953algebre}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4e7c3d6c0f30c0cfd16c78d608d442e3}{%
+           family={Samuel},
+           familyi={S\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{publisher}{1}{%
+        {Gauthier-Villars}%
+      }
+      \strng{namehash}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{fullhash}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{fullhashraw}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{bibnamehash}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{authorbibnamehash}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{authornamehash}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{authorfullhash}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \strng{authorfullhashraw}{4e7c3d6c0f30c0cfd16c78d608d442e3}
+      \field{extraname}{1}
+      \field{labelalpha}{Sam53}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algèbre locale}
+      \field{year}{1953}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://eudml.org/doc/192643
+      \endverb
+      \verb{url}
+      \verb http://eudml.org/doc/192643
+      \endverb
+      \keyw{rings,modules,fields}
+    \endentry
+    \entry{samuel1964lectures}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3da41d77972693f33c79e6714219b1b3}{%
+           family={Samuel},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Tata Institute of Fundemental Research, Bombay}%
+      }
+      \strng{namehash}{3da41d77972693f33c79e6714219b1b3}
+      \strng{fullhash}{3da41d77972693f33c79e6714219b1b3}
+      \strng{fullhashraw}{3da41d77972693f33c79e6714219b1b3}
+      \strng{bibnamehash}{3da41d77972693f33c79e6714219b1b3}
+      \strng{authorbibnamehash}{3da41d77972693f33c79e6714219b1b3}
+      \strng{authornamehash}{3da41d77972693f33c79e6714219b1b3}
+      \strng{authorfullhash}{3da41d77972693f33c79e6714219b1b3}
+      \strng{authorfullhashraw}{3da41d77972693f33c79e6714219b1b3}
+      \field{extraname}{2}
+      \field{labelalpha}{Sam64}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lectures on Unique Factorization Domains.}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.math.tifr.res.in/~publ/ln/tifr30.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.math.tifr.res.in/~publ/ln/tifr30.pdf
+      \endverb
+    \endentry
+    \entry{serre2000local}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=07241de515f0ce74ecf4f65ef83d0ce2}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={J.P},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0967abf6db986803d57232ebc78c658d}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={C.W.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{fullhash}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{fullhashraw}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{bibnamehash}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{authorbibnamehash}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{authornamehash}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{authorfullhash}{300085d4c8d543334b0bcb4b76291fb5}
+      \strng{authorfullhashraw}{300085d4c8d543334b0bcb4b76291fb5}
+      \field{labelalpha}{SC00}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783540666417}
+      \field{series}{Springer Monographs in Mathematics}
+      \field{title}{Local Algebra}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=oZmXsvlYtMQC
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=oZmXsvlYtMQC
+      \endverb
+    \endentry
+    \entry{seidenberg1966derivations}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8eff1a1e00eb6a700ba16c983a2cf862}{%
+           family={Seidenberg},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pacific Journal of Mathematics, A Non-profit Corporation}%
+      }
+      \strng{namehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{fullhash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{fullhashraw}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{bibnamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorbibnamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authornamehash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorfullhash}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \strng{authorfullhashraw}{8eff1a1e00eb6a700ba16c983a2cf862}
+      \field{labelalpha}{Sei66}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pacific Journal of Mathematics}
+      \field{number}{1}
+      \field{title}{Derivations and integral closure.}
+      \field{volume}{16}
+      \field{year}{1966}
+      \field{dateera}{ce}
+      \field{pages}{167\bibrangedash 173}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-16/issue-1/Derivations-and-integral-closure/pjm/1102995095
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-16/issue-1/Derivations-and-integral-closure/pjm/1102995095
+      \endverb
+    \endentry
+    \entry{serre1956geometrie}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=523a41970d92b80420ca6d5307619da7}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \list{location}{1}{%
+        {Gap}%
+      }
+      \list{publisher}{1}{%
+        {Imprimerie Louis-Jean}%
+      }
+      \strng{namehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{fullhash}{523a41970d92b80420ca6d5307619da7}
+      \strng{fullhashraw}{523a41970d92b80420ca6d5307619da7}
+      \strng{bibnamehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authorbibnamehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authornamehash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authorfullhash}{523a41970d92b80420ca6d5307619da7}
+      \strng{authorfullhashraw}{523a41970d92b80420ca6d5307619da7}
+      \field{labelalpha}{Ser56}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales de l'Institut Fourier}
+      \field{title}{Géométrie algébrique et géométrie analytique}
+      \field{volume}{6}
+      \field{year}{1956}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 42}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.5802/aif.59
+      \endverb
+      \verb{urlraw}
+      \verb http://www.numdam.org/articles/10.5802/aif.59/
+      \endverb
+      \verb{url}
+      \verb http://www.numdam.org/articles/10.5802/aif.59/
+      \endverb
+    \endentry
+    \entry{serre2009algèbre}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=07241de515f0ce74ecf4f65ef83d0ce2}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={J.P.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8b3a1e7bc86c64de7e96fc9b8e1ba7b2}{%
+           family={Gabriel},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{fullhash}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{fullhashraw}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{bibnamehash}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{authorbibnamehash}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{authornamehash}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{authorfullhash}{962c7d43591cdf1c87180985c7c36e0d}
+      \strng{authorfullhashraw}{962c7d43591cdf1c87180985c7c36e0d}
+      \field{labelalpha}{SG09}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783540371236}
+      \field{series}{Lecture Notes in Mathematics}
+      \field{title}{Alg{è}bre Locale, Multiplicit{é}s: Cours au Coll{è}ge de France, 1957 - 1958}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=7TVtCQAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=7TVtCQAAQBAJ
+      \endverb
+    \endentry
+    \entry{sharp1977acceptable}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=65b3e6a36f69662773e081d2377e73ff}{%
+           family={Sharp},
+           familyi={S\bibinitperiod},
+           given={Rodney\bibnamedelima Y.},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{fullhash}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{fullhashraw}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{bibnamehash}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{authorbibnamehash}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{authornamehash}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{authorfullhash}{65b3e6a36f69662773e081d2377e73ff}
+      \strng{authorfullhashraw}{65b3e6a36f69662773e081d2377e73ff}
+      \field{labelalpha}{Sha77}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Algebra}
+      \field{title}{Acceptable rings and homomorphic images of Gorenstein rings}
+      \field{volume}{44}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{246\bibrangedash 261}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/0021-8693(77)90180-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0021869377901806
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0021869377901806
+      \endverb
+    \endentry
+    \entry{valabrega1975on}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=36795238f04e5f99bbfb30158dff0164}{%
+           family={Valabrega},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{fullhash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{fullhashraw}{36795238f04e5f99bbfb30158dff0164}
+      \strng{bibnamehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authorbibnamehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authornamehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authorfullhash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authorfullhashraw}{36795238f04e5f99bbfb30158dff0164}
+      \field{extraname}{1}
+      \field{labelalpha}{Val75}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematics of Kyoto University}
+      \field{number}{2}
+      \field{title}{{On the excellent property for power series rings over polynomial rings}}
+      \field{volume}{15}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{pages}{387\bibrangedash 395}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1215/kjm/1250523070
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/kyoto-journal-of-mathematics/volume-15/issue-2/On-the-excellent-property-for-power-series-rings-over-polynomial/10.1215/kjm/1250523070.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/kyoto-journal-of-mathematics/volume-15/issue-2/On-the-excellent-property-for-power-series-rings-over-polynomial/10.1215/kjm/1250523070.full
+      \endverb
+    \endentry
+    \entry{valabrega1976a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=36795238f04e5f99bbfb30158dff0164}{%
+           family={Valabrega},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nagoya Mathematical Journal}%
+      }
+      \strng{namehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{fullhash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{fullhashraw}{36795238f04e5f99bbfb30158dff0164}
+      \strng{bibnamehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authorbibnamehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authornamehash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authorfullhash}{36795238f04e5f99bbfb30158dff0164}
+      \strng{authorfullhashraw}{36795238f04e5f99bbfb30158dff0164}
+      \field{extraname}{2}
+      \field{labelalpha}{Val76}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nagoya Mathematical Journal}
+      \field{title}{{A few theorems on completion of excellent rings}}
+      \field{volume}{61}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{127\bibrangedash 133}
+      \range{pages}{7}
+      \verb{doi}
+      \verb nmj/1118795739
+      \endverb
+      \verb{urlraw}
+      \verb https://projecteuclid.org/journals/nagoya-mathematical-journal/volume-61/issue-none/A-few-theorems-on-completion-of-excellent-rings/nmj/1118795739.full
+      \endverb
+      \verb{url}
+      \verb https://projecteuclid.org/journals/nagoya-mathematical-journal/volume-61/issue-none/A-few-theorems-on-completion-of-excellent-rings/nmj/1118795739.full
+      \endverb
+    \endentry
+    \entry{vasconcelos1967ideal}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=63268c9c9532affd91deaafd56181646}{%
+           family={Vasconcelos},
+           familyi={V\bibinitperiod},
+           given={Wolmer\bibnamedelima V},
+           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{63268c9c9532affd91deaafd56181646}
+      \strng{fullhash}{63268c9c9532affd91deaafd56181646}
+      \strng{fullhashraw}{63268c9c9532affd91deaafd56181646}
+      \strng{bibnamehash}{63268c9c9532affd91deaafd56181646}
+      \strng{authorbibnamehash}{63268c9c9532affd91deaafd56181646}
+      \strng{authornamehash}{63268c9c9532affd91deaafd56181646}
+      \strng{authorfullhash}{63268c9c9532affd91deaafd56181646}
+      \strng{authorfullhashraw}{63268c9c9532affd91deaafd56181646}
+      \field{labelalpha}{Vas67}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0021-8693}
+      \field{journaltitle}{Journal of Algebra}
+      \field{number}{3}
+      \field{title}{Ideals generated by R-sequences}
+      \field{volume}{6}
+      \field{year}{1967}
+      \field{dateera}{ce}
+      \field{pages}{309\bibrangedash 316}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0021-8693(67)90086-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0021869367900865
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0021869367900865
+      \endverb
+    \endentry
+    \entry{zariski1950sur}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=443b48f6d9a435ffeffe823e6bf1a3ce}{%
+           family={Zariski},
+           familyi={Z\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \list{location}{1}{%
+        {Grenoble}%
+      }
+      \list{publisher}{1}{%
+        {Institut Fourier}%
+      }
+      \strng{namehash}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{fullhash}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{fullhashraw}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{bibnamehash}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{authorbibnamehash}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{authornamehash}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{authorfullhash}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \strng{authorfullhashraw}{443b48f6d9a435ffeffe823e6bf1a3ce}
+      \field{labelalpha}{Zar50}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales de l'Institut Fourier}
+      \field{title}{Sur la normalité analytique des variétés normales}
+      \field{volume}{2}
+      \field{year}{1950}
+      \field{dateera}{ce}
+      \field{pages}{161\bibrangedash 164}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.5802/aif.27
+      \endverb
+      \verb{urlraw}
+      \verb http://www.numdam.org/articles/10.5802/aif.27/
+      \endverb
+      \verb{url}
+      \verb http://www.numdam.org/articles/10.5802/aif.27/
+      \endverb
+    \endentry
+    \entry{zariski2014commutative}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=443b48f6d9a435ffeffe823e6bf1a3ce}{%
+           family={Zariski},
+           familyi={Z\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3da41d77972693f33c79e6714219b1b3}{%
+           family={Samuel},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{fullhash}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{fullhashraw}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{bibnamehash}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{authorbibnamehash}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{authornamehash}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{authorfullhash}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \strng{authorfullhashraw}{f02b3bcf71a7b85ca4c19e6e004de293}
+      \field{labelalpha}{ZS14}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783662292457}
+      \field{series}{Graduate Texts in Mathematics}
+      \field{title}{Commutative Algebra: Volume II}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=kX-VnQEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=kX-VnQEACAAJ
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
